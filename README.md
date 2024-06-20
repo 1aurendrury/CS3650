@@ -1,1 +1,1 @@
-Computer Systems at Northeastern University, Fall 2023
+Computer Systems at Northeastern University, Fall 2023 semester
